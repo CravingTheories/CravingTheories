@@ -1,16 +1,15 @@
-## Hi there 👋
-
 <!--
-**CravingTheories/CravingTheories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A document like this is akin to a blank canvas; Just sitting there, waiting to be painted on.
+I, am the painter of this canvas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+CravingTheories is a name I thought of on the spot, utilizing my initials to think of a name that flowed well.
+Now that I look back on it, there were most certianly better choices.
+CursedTechnique would have been cool as hell.
+
+My favorite food is Baked Mac 'n Cheese
+My cats names are Canon and Latte
+I've been studying Computer Science for four years, this marks my fifth.
+And I spend a little too much time online.
+
 -->
