@@ -1,8 +1,5 @@
 <!--
 
-A document like this is akin to a blank canvas; Just sitting there, waiting to be painted on.
-I, am the painter of this canvas.
-
 CravingTheories is a name I thought of on the spot, utilizing my initials to think of a name that flowed well.
 Now that I look back on it, there were most certianly better choices.
 CursedTechnique would have been cool as hell.
